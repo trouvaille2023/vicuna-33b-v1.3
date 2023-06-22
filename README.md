@@ -2,6 +2,9 @@
 inference: false
 ---
 
+**Note**: This is a preview version. It may output the wrong list indices from some nested lists. We will release an updated version soon to fix the issues.
+
+
 # Vicuna Model Card
 
 ## Model Details
